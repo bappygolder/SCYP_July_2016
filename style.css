@@ -1,0 +1,24 @@
+/* CSS Document */
+* {
+	font-size: 50px;
+}
+
+body {
+	background-color: tomato;
+	color: white;
+	font-family:arial;
+	
+    margin: 200px;
+}
+
+h1 {
+	font-size: 140%;
+}
+
+p span {
+	color: rgba(255, 255, 255, 0.54);
+}
+
+.awesome{
+	color: #7b1f1f;
+}
